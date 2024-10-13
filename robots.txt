@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://poqocosotehi.pages.dev/sitemap.xml
